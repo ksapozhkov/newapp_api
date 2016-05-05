@@ -1,5 +1,5 @@
 # NewApp API
-Описание Api для сервиса NewApp (www.newapp.pro).
+Описание API для сервиса NewApp (www.newapp.pro).
 
 
 ## Документация
